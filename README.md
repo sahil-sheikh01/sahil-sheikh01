@@ -13,6 +13,6 @@ My current tech stack includes:
 
 ### Fun Facts
 
-🍵 I like tea when coding.  
+☕ I like tea when coding.  
 🍥 Naruto is my favourite anime.  
 🎯 Hobbies: coding, editing, and content creation.
